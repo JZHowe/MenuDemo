@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MenuDemo</string>
+
+    <array name="listView">
+        <item>故事的小黄花 </item>
+        <item>从出生那年就飘着 </item>
+        <item>童年的荡秋千 </item>
+        <item>随记忆一直晃到现在 </item>
+        <item>rui sou sou xi dou xi la </item>
+        <item>sou la xi xi xi xi la xi la sou </item>
+        <item>吹着前奏望着天空 </item>
+        <item>我想起花瓣试着掉落 </item>
+        <item>为你翘课的那一天 </item>
+        <item>花落的那一天 </item>
+        <item>教室的那一间 </item>
+        <item>我怎么看不见 </item>
+        <item>消失的下雨天 </item>
+        <item>我好想再淋一遍 </item>
+        <item>没想到失去的勇气我还留着 </item>
+        <item>好想再问一遍 </item>
+        <item>你会等待还是离开 </item>
+    </array>
+</resources>
