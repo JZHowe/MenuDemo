@@ -63,7 +63,7 @@ this.registerForContextMenu(listView);
 
 效果图如下图所示
 
-![获取到所点击item的position](https://raw.githubusercontent.com/JZHowe/MenuDemo/master/gif/ContextMenu.gif)
+![获取到所点击item的position](https://github.com/JZHowe/MenuDemo/blob/master/gif/ContextMenu.gif)
 
 怎么实现这个操作呢？先来看下代码：
 
